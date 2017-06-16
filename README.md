@@ -12,3 +12,5 @@ ML course notes, solutions, resources
 
 * https://github.com/mattnedrich/GradientDescentExample
 * https://github.com/llSourcell/Intro_to_the_Math_of_intelligence
+
+### Supplementary videos :
