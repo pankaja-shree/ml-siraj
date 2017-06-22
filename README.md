@@ -14,3 +14,9 @@ ML course notes, solutions, resources
 * https://github.com/llSourcell/Intro_to_the_Math_of_intelligence
 
 ### Supplementary videos :
+
+### Notes :
+
+* numpy - matrix multiplication library
+* Hyperparameters in ML - are tuning knowbs for the model. They are guessed by trial and error. Eg: learning rate.
+
