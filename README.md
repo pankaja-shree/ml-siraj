@@ -15,8 +15,10 @@ ML course notes, solutions, resources
 
 ### Supplementary videos :
 
+* Gradient descent Algorithm implementation in python: https://www.youtube.com/watch?v=XdM6ER7zTLk&t=1650s
+
 ### Notes :
 
 * numpy - matrix multiplication library
-* Hyperparameters in ML - are tuning knowbs for the model. They are guessed by trial and error. Eg: learning rate.
+* Hyperparameters in ML - are tuning knobs for the model. They are guessed by trial and error. Eg: learning rate.
 
